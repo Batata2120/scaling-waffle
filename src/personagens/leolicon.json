@@ -1,0 +1,19 @@
+{
+    "titulo":"leolicon",
+    "subtitulo":"O inimigo da saude",
+    "descricao":"Leolicon, um ex-funcionário do McDonald's, mergulhou nas trevas ao descobrir uma antiga fórmula oculta no arquivo da empresa. Corrompido pelos poderes concedidos, ele transformou a cadeia de fast food em um instrumento de sua ascensão ao domínio mundial. Utilizando ingredientes enfeitiçados, Leolicon controlava as mentes daqueles que consumiam seus produtos, tornando o McDonald's não apenas uma franquia de fast food, mas um veículo de manipulação global em sua busca pelo poder absoluto.",
+    "status":{
+        "defesa":23,
+        "forca":25,
+        "sorte":25,
+        "sabedoria":10,
+        "inteligencia":7,
+        "velocidade":20
+    },
+    "poderes":[
+        ["Controle Mental Fast-Food", "Leolicon manipula mentes através de ingredientes secretos nos alimentos do McDonalds."],
+        ["Teleporte de Drive-Thru","Leolicon pode se teleportar instantaneamente entre os Drive-Thrus do McDonald's."],
+        ["Transformação de Alimentos em Criaturas Sombrias"]
+    ],
+    "imagem":"imagens/leolicon.png"
+}
